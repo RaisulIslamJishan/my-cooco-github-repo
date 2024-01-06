@@ -1,4 +1,11 @@
-div{
+#repo{
     background-color: blueviolet;
     padding: 20px;
+}
+#hero{
+    background-color: chartreuse;
+    color: darkblue;
+    padding: 10px;
+    margin-bottom: 10px;
+    
 }
